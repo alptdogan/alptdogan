@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3>Hey! Let's see what we have here 🙌</h3>
 
 - 🔭 I’m currently working on [psychology-clinic-management-system](https://github.com/alptdogan/psychology-clinic-management-system)
 
@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alptug-dogan/](https://www.linkedin.com/in/alptug-dogan/)
 
-- ⚡ Fun fact **I'm quitting one of the coolest jobs ever to work on another one of the coolest job ever. (Soon I hope) :)**
+- ⚡ Not so fun fact: **I'm quitting one of the coolest jobs ever to work on another coolest one ever (soon I hope) :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
