@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Framework.**
 
-- 📫 How to reach me **alpdogan000@gmail.com**
+- 📫 You can reach me at **alpdogan000@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alptug-dogan/](https://www.linkedin.com/in/alptug-dogan/)
 
