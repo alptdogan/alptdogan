@@ -2,13 +2,12 @@
 
 - 🔭 I’m currently working on [psychology-clinic-management-system](https://github.com/alptdogan/psychology-clinic-management-system)
 
-- 🌱 I’m currently learning **Java and Spring Framework.**
+- 📄 Know about my experiences [https://www.linkedin.com/in/alptug-dogan/](https://www.linkedin.com/in/alptug-dogan/)
 
 - 📫 You can reach me at **alpdogan000@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alptug-dogan/](https://www.linkedin.com/in/alptug-dogan/)
 
-- ⚡ Not so fun fact: **I'm quitting one of the coolest jobs ever to work on another coolest one ever (soon I hope) :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
