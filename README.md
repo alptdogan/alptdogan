@@ -1,6 +1,6 @@
 <h3>Hey! Let's see what we have here 🙌</h3>
 
-- 🔭 I’m currently working on [find-a-therapist-web-app](https://github.com/alptdogan/find-a-therapist-web-app)
+- 🔭 I’m currently working on [find-a-therapist-spring-boot-web-app](https://github.com/alptdogan/find-a-therapist-web-app)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alptug-dogan/](https://www.linkedin.com/in/alptug-dogan/)
 
