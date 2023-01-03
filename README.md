@@ -1,6 +1,6 @@
 <h3>Hey! Let's see what we have here 🙌</h3>
 
-- 🔭 I’m currently working on [Psychology-Clinic-Management-System](https://github.com/alptdogan/Psychology-Clinic-Management-System)
+- 🔭 I’m currently working on [FizzBuzzTest](https://github.com/alptdogan/FizzBuzzTest)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alptug-dogan/](https://www.linkedin.com/in/alptug-dogan/)
 
