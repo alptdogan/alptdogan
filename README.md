@@ -1,6 +1,6 @@
 <h3>Hey! Let's see what we have here 🙌</h3>
 
-- 🔭 I’m currently working on [FizzBuzzTest](https://github.com/alptdogan/FizzBuzzTest)
+- 🔭 I’m currently working on [Yellow-Pages](https://github.com/alptdogan/Yellow-Pages)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alptug-dogan/](https://www.linkedin.com/in/alptug-dogan/)
 
