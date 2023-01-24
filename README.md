@@ -1,6 +1,6 @@
 <h3>Hey! Let's see what we have here 🙌</h3>
 
-- 🔭 I’m currently working on [Yellow-Pages](https://github.com/alptdogan/Yellow-Pages)
+- 🔭 I’m currently working on [stock-management](https://github.com/alptdogan/stock-management)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alptug-dogan/](https://www.linkedin.com/in/alptug-dogan/)
 
