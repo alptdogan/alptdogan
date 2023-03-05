@@ -7,6 +7,9 @@
 - 📫 You can reach me at **alpdogan000@gmail.com**
 
 
+![Visitor Count](https://profile-counter.glitch.me/{alptdogan}/count.svg)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
