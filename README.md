@@ -1,4 +1,4 @@
-## Hey! Let's see what we have here 🙌
+## Hey!
 
 - 🔭 I’m currently working on [catharsia](https://github.com/alptdogan/catharsia)
 
