@@ -1,6 +1,6 @@
 ## Hey!
 
-- 🔭 I’m currently working on Java 8 libraries. I'll be back in a few days to refactor some code of the last two repositories that I published recently.
+- 🔭 I’m currently working on refactoring the [Company-Management-System](https://github.com/alptdogan/Company-Management-System).
 
 ## Connect with me:
 <p align="left">
