@@ -1,6 +1,6 @@
 ## Hey!
 
-- 🔭 I’m currently working on refactoring the [Company-Management-System](https://github.com/alptdogan/Company-Management-System).
+- 🔭 I’m currently learning the basics of JavaScript.
 
 ## Connect with me:
 <p align="left">
