@@ -1,6 +1,6 @@
 ## Hey!
 
-- 🔭 I’m currently learning the basics of JavaScript.
+- 🔭 I’m currently learning the basics of JavaScript and React.
 
 ## Connect with me:
 <p align="left">
