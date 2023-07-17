@@ -4,7 +4,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/alptuğ doğan" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="alptuğ doğan"/></a>
+<a href="https://www.linkedin.com/in/alptug-dogan/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="alptuğ doğan"/></a>
 <a href = 'mailto:alpdogan000@gmail.com'><img src="https://img.icons8.com/doodle/256/gmail-new.png" height="55" width="53" />
 <a href = 'https://open.spotify.com/user/21n56wascesoxy5xj7xu7uyta'><img src="https://img.icons8.com/doodle/48/000000/spotify-for-artists.png"/>
 </p>
