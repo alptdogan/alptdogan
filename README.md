@@ -1,6 +1,6 @@
 ## Hey!
 
-- 🔭 I’m currently learning the basics of JavaScript and React.
+- 🔭 I’m currently working on [twitter-clone](https://github.com/alptdogan/twitter-clone).
 
 ## Connect with me:
 <p align="left">
